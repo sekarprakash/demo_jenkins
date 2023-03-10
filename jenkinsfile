@@ -1,5 +1,4 @@
-@libaray('demo@main') _
-node
-{
-   Welcome("PRAKASH")
- }
+@Libaray ('demo@main') _
+node{
+Welcome("Prakash")
+}
